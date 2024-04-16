@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "32028fb8-27d2-4a38-96f3-0c731f94a0fb")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 93.98 38.1)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "04300888-724e-4032-9936-870c854b9189")
+		(property "Sheetname" "MIPI DSI IN"
+			(at 93.98 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mipi-dsi-in.kicad_sch"
+			(at 93.98 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "swd-lh397kic01"
+				(path "/32028fb8-27d2-4a38-96f3-0c731f94a0fb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 182.245 38.1)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2847d775-b873-4b9d-9439-7c4e15c2b50a")
+		(property "Sheetname" "VOLTAGE REGULATORS"
+			(at 182.245 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "voltage-regulators.kicad_sch"
+			(at 182.245 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "swd-lh397kic01"
+				(path "/32028fb8-27d2-4a38-96f3-0c731f94a0fb"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.335 38.1)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea03a3c5-5ac0-4618-bb08-06acbdff3056")
+		(property "Sheetname" "MIPI DSI OUT"
+			(at 140.335 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mipi-dsi-out.kicad_sch"
+			(at 140.335 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "swd-lh397kic01"
+				(path "/32028fb8-27d2-4a38-96f3-0c731f94a0fb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FH52-22S-0_5SH")(type "KiCad")(uri "${KIPRJMOD}/symbols/FH52-22S-0_5SH.kicad_sym")(options "")(descr ""))
+  (lib (name "1-1734248-5")(type "KiCad")(uri "${KIPRJMOD}/symbols/1-1734248-5.kicad_sym")(options "")(descr ""))
+  (lib (name "rs3236")(type "KiCad")(uri "${KIPRJMOD}/symbols/rs3236.kicad_sym")(options "")(descr ""))
+  (lib (name "10051922-2010ELF")(type "KiCad")(uri "${KIPRJMOD}/symbols/10051922-2010ELF.kicad_sym")(options "")(descr ""))
+  (lib (name "SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGADE010_")(type "KiCad")(uri "${KIPRJMOD}/symbols/SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGADE010_.kicad_sym")(options "")(descr ""))
+  (lib (name "ap3127b-custom")(type "KiCad")(uri "${KIPRJMOD}/symbols/ap3127b-custom.kicad_sym")(options "")(descr ""))
+  (lib (name "DF40C-24DS-0.4V_51_")(type "KiCad")(uri "${KIPRJMOD}/symbols/DF40C-24DS-0.4V_51_.kicad_sym")(options "")(descr ""))
+)
