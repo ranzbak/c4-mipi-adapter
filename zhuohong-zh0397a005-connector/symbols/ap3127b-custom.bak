@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 3.302 -0.254 0)
+			(at 4.318 5.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" "AP3127B"
-			(at 0 -1.27 0)
+			(at 5.08 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 0 -1.27 0)
+			(at 5.08 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" "https://file.remont-aud.net/baza/dc_dc/data/AP3127B.pdf"
-			(at 0 -1.27 0)
+			(at -2.54 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Description" "Step-UP DC/DC converter / LED driver"
-			(at 0 -1.27 0)
+			(at 1.778 9.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50,7 +50,7 @@
 			)
 		)
 		(property "LCSC" "C130343"
-			(at 0 0 0)
+			(at -2.794 -7.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69,7 +69,7 @@
 		(symbol "ap3127b-sot-23-6l_0_1"
 			(polyline
 				(pts
-					(xy 3.81 0) (xy 3.81 0)
+					(xy 3.81 -1.27) (xy 3.81 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -81,7 +81,7 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 3.81) (xy -3.81 -3.81) (xy 13.97 -3.81) (xy 13.97 3.81) (xy -3.81 3.81)
+					(xy -3.81 3.81) (xy -3.81 -5.08) (xy 13.97 -5.08) (xy 13.97 3.81) (xy -3.81 3.81)
 				)
 				(stroke
 					(width 0)
@@ -94,7 +94,7 @@
 		)
 		(symbol "ap3127b-sot-23-6l_1_1"
 			(pin input line
-				(at 13.97 1.27 0)
+				(at 16.51 0 180)
 				(length 2.54)
 				(name "OVP"
 					(effects
@@ -112,7 +112,7 @@
 				)
 			)
 			(pin input line
-				(at 11.43 3.81 90)
+				(at 10.16 6.35 270)
 				(length 2.54)
 				(name "LX"
 					(effects
@@ -130,7 +130,7 @@
 				)
 			)
 			(pin input line
-				(at 5.08 -3.81 270)
+				(at 5.08 -7.62 90)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -148,7 +148,7 @@
 				)
 			)
 			(pin input line
-				(at 13.97 -1.27 0)
+				(at 16.51 -2.54 180)
 				(length 2.54)
 				(name "FB"
 					(effects
@@ -166,7 +166,7 @@
 				)
 			)
 			(pin input line
-				(at -3.81 0 180)
+				(at -6.35 -1.27 0)
 				(length 2.54)
 				(name "CE"
 					(effects
@@ -184,7 +184,7 @@
 				)
 			)
 			(pin input line
-				(at -1.27 3.81 90)
+				(at 0 6.35 270)
 				(length 2.54)
 				(name "VIN"
 					(effects

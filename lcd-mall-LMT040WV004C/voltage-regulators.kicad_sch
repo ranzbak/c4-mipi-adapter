@@ -656,24 +656,6 @@
 			)
 			(symbol "ap3127b-sot-23-6l_1_1"
 				(pin input line
-					(at 16.51 0 180)
-					(length 2.54)
-					(name "OVP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
 					(at 10.16 6.35 270)
 					(length 2.54)
 					(name "LX"
@@ -738,6 +720,24 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 16.51 0 180)
+					(length 2.54)
+					(name "OVP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2016,7 +2016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_LGE-1N5819W_C402219.pdf"
+		(property "Datasheet" "~"
 			(at 223.52 33.02 0)
 			(effects
 				(font
@@ -2131,7 +2131,7 @@
 		(pin "1"
 			(uuid "2476f626-66cc-487f-b410-c9d6cdf12124")
 		)
-		(pin ""
+		(pin "5"
 			(uuid "a502b870-fa35-43f2-8a9e-24be5fdf59ef")
 		)
 		(pin "2"
@@ -2253,7 +2253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_RALEC-RTT036R34FTP_C166772.pdf"
+		(property "Datasheet" "~"
 			(at 232.41 58.42 0)
 			(effects
 				(font
@@ -2827,7 +2827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-RUNIC-Tech-RS3236-1-8YF5_C379343.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-RUNIC-Tech-RS3236-2-5YF5_C379344.pdf"
 			(at 64.77 45.72 0)
 			(effects
 				(font
@@ -2845,7 +2845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Lcsc" "C379343"
+		(property "Lcsc" "C379345"
 			(at 64.77 45.72 0)
 			(effects
 				(font
@@ -3124,7 +3124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2002271926_microgate-MPIT252012-220M-LF_C486445.pdf"
+		(property "Datasheet" "~"
 			(at 209.55 33.02 0)
 			(effects
 				(font

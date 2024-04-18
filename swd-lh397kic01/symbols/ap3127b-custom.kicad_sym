@@ -94,24 +94,6 @@
 		)
 		(symbol "ap3127b-sot-23-6l_1_1"
 			(pin input line
-				(at 16.51 0 180)
-				(length 2.54)
-				(name "OVP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
 				(at 10.16 6.35 270)
 				(length 2.54)
 				(name "LX"
@@ -176,6 +158,24 @@
 					)
 				)
 				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 16.51 0 180)
+				(length 2.54)
+				(name "OVP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)

@@ -3196,7 +3196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "custom:SW4-SMD-5.2X5.2X1.5MM"
+		(property "Footprint" "SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGADE010_:SW4-SMD-5.2X5.2X1.5MM"
 			(at 246.38 45.72 0)
 			(effects
 				(font
