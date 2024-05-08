@@ -1,3 +1,6 @@
 **/*-backups
 **/*.bak
 **/*.lck
+
+**/production/*
+*.zip

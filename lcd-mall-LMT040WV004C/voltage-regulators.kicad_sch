@@ -2076,7 +2076,7 @@
 				)
 			)
 		)
-		(property "Value" "AP3127B"
+		(property "Value" "AP3032"
 			(at 226.06 43.2114 0)
 			(effects
 				(font
@@ -2093,7 +2093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://file.remont-aud.net/baza/dc_dc/data/AP3127B.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP3032.pdf"
 			(at 204.47 50.8 0)
 			(effects
 				(font
@@ -2111,7 +2111,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C130343"
+		(property "LCSC" "C264086 "
 			(at 226.06 45.7514 0)
 			(effects
 				(font
@@ -2235,7 +2235,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6R2 1%"
+		(property "Value" "10R0 1%"
 			(at 234.95 59.6899 0)
 			(effects
 				(font
@@ -2271,7 +2271,7 @@
 				(hide yes)
 			)
 		)
-		(property "lcsc" "C3013206"
+		(property "LCSC" " C103222 "
 			(at 232.41 58.42 0)
 			(effects
 				(font
@@ -2350,7 +2350,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5189821"
+		(property "LCSC" "C126631"
 			(at 186.69 59.69 0)
 			(effects
 				(font
@@ -2636,7 +2636,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5189821"
+		(property "LCSC" "C126631"
 			(at 90.17 46.99 0)
 			(effects
 				(font
@@ -2845,7 +2845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Lcsc" "C379345"
+		(property "LCSC" "C379345"
 			(at 64.77 45.72 0)
 			(effects
 				(font
@@ -2999,7 +2999,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5189821"
+		(property "LCSC" "C126631"
 			(at 102.87 41.91 0)
 			(effects
 				(font
@@ -3107,7 +3107,7 @@
 				)
 			)
 		)
-		(property "Value" "22uH"
+		(property "Value" "6.8uH"
 			(at 209.55 30.48 90)
 			(effects
 				(font
@@ -3115,7 +3115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FNR252010S"
+		(property "Footprint" "Inductor_SMD:L_1210_3225Metric"
 			(at 209.55 33.02 0)
 			(effects
 				(font
@@ -3142,7 +3142,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C486445"
+		(property "LCSC" "C394999 "
 			(at 209.55 33.02 90)
 			(effects
 				(font
@@ -3221,7 +3221,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5189821"
+		(property "LCSC" "C126631"
 			(at 35.56 41.91 0)
 			(effects
 				(font
