@@ -6,4 +6,5 @@
   (lib (name "10051922-2010ELF")(type "KiCad")(uri "${KIPRJMOD}/symbols/10051922-2010ELF.kicad_sym")(options "")(descr ""))
   (lib (name "SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGADE010_")(type "KiCad")(uri "${KIPRJMOD}/symbols/SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGADE010_.kicad_sym")(options "")(descr ""))
   (lib (name "ap3127b-custom")(type "KiCad")(uri "${KIPRJMOD}/symbols/ap3127b-custom.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/symbols/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )
